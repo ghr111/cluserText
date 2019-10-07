@@ -1,0 +1,47 @@
+As a,I want to
+As a ,I Complete list of all data from my institution
+As a researcher  or other user  ,I want to understand from the RDDS record the quality of the metadata associated with the dataset  how the dataset has been packaged  whether it is in a form that will enable me to reuse it  and whether there is published literature that describes the dataset and draws conclusions from it 
+As a researcher ,I can interrogate and find data using semantic web technologies  SPARQL RDF 
+As a researcher ,I want to discover related objects and resources  e g  via a recommendation service 
+As a ,I Encourage researchers to document data to a high standard and deposit it for reuse  to improve impact and REF rankings
+As a ,I To make it easy for a repository   data centre to provide data to encourage contributions
+As a repository data holder ,I want to have metadata indexed by Google etc  so I don’t have to work to get the records indexed myself 
+As a researcher ,I want to be able to publicise the existence  and location  of datasets I’ve created
+As a Data Centre Manager ,I want to promote the existence of datasets I hold and data links I know about  for the benefit of the UK research community – particularly for cross-disciplinary research
+As a funder   programme manager ,I want to discover all datasets  and relevant statistics  that I have funded so that I can demonstrate  evaluate return on investment
+As a national organisation ,I want to be able to select datasets by characteristics  e g  funder  publication  to report to international  EU  funding  E g  provide a national OpenAIRE return for all UK institutions  These need funding and publication and compliance with OpenAIRE metadata standards
+As a data centre ,I want to be able to trigger re-indexing harvesting of my data holdings or a subset of my data holdings so that the RDDS is correct and up to date; in particular deletion of datasets at source repository must be actioned rapidly in the RDDS
+As a researcher ,I want to be able to browse through data so I can find records I was not aware of
+As a developer maintaining the registry ,I want to be able to quickly and easily apply platform updates with minimal disruption and development effort so that the system can remain secure  bugs can be dealt with and new features taken advantage of
+As a multidisciplinary researcher ,I want to be able to specify a geographical area  and find all the available data about that area  so I can look for correlations between phenomena investigated by different disciplines 
+As a librarian ,I want to use analytics that show the value of my dataset  Help with impact  Aggregation level  
+As a learner student ,I want to find datasets I can learn from   Will student metadata be harvested If it’s in the repository  yes  
+As a system supplier vendor ,I want to certify my system is compliant to the RDDS  requires a set of standards  an indication of minimal optimal mandatory optional metadata elements and their effect on discovery 
+As a system manager ,I’ve published information I shouldn’t have and need it removed 
+As a researcher ,I want to list the datasets papers derived from my dataset so that I can demonstrate impact for REF and grant applications  via DOIs 
+As a researcher ,I want to search for data in my research area and only my area  or specific data related research  or data linked to a specific researcher  so that I can quickly find relevant results or confirm that there isn't already data out there that would suit my needs 
+As a funder ,I want to ensure that data an applicant plans to collect doesn’t already exist   Policy and guidance available  
+As a data centre   repository,I want to be sure that publishing metadata to RDDS and how such metadata are licensed respects the rights   licensing of my metadata  in particular when they are provided by copyright of data depositors  Investigate how metadata can be optimally shared to the RDDS 
+As a ,I want the RDSS to also harvest data services related to datasets
+As a ,I want to ensure that no duplicate records show in the RDDS  should they be harvested from different sources  compare unique identifiers  and different versions of a dataset are uniquely identified  Two parts - no duplicates  show multiple versions
+As a System Manager ,I want my metadata records harvested into a registry so that they can be discoverable 
+As a developer,I want to harvest metadata from the registry so that it can be reused or aggregated
+As a developer,I want to perform text mining over metadata or data mining over data assets  that metadata designate and point to   A specific case of data mining could be automated dataset characterization  defining metadata by a machine agent looking into data 
+As a researcher,I want to realize the origin of data and metadata published
+As a security researcher,I want to find datasets that have been anonymised or sanitised in a particular fashion so that I can attack or improve these anonymisation schemes
+As a networking researcher,I want to find datasets that contain mobility or movement of particular nodes in a network  This can be people  or animals  or nodes in a graph  So I need to look for coordinate information within the data themselves
+As a researcher,I want to find data that were collected using a particular methodology  or had particular problems during the collection of a dataset 
+As a visual researcher,I want to browse search results visually  e g thumbnails  rather than just text-based search results
+As a visual researcher,I want to know the copyright and licensing arrangements for data  including third party visual materials; as a data provider I want to ensure that rights information is clear in order to easily enable re-use where possible and to protect materials from unauthorized uses 
+As a visual researcher,I want appropriate tools for my needs  e g  a lightbox to save particular visual materials  ability to compare images side by side 
+As a creative arts researcher,I want to find data using a visual rather than text-based search 
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+As a,I want to
+As a depositor,I want to Deposit and maintain datasets through a simple web interface So that I don’t need to install and learn new software to deposit
+As a depositor,I want to Have a user interface that is familiar to me So that I feel like all the University systems are joined up
+As a depositor,I want to Deposit and maintain datasets through Pure So that I have a single one-stop shop for managing my research outputs
+As a depositor,I want to Deposit and maintain datasets through Virtual Research Environments and other workflow tools So that I can continue to work with tools with which I’m familiar
+As a depositor,I want to Deposit the files that I have So that I don’t have to spend a lot of time finding the right version and converting to the right format
+As a depositor,I want to Place data under an embargo So that My right of first-use is protected I can fulfil my confidentiality responsibilities
+As a depositor,I want to Apply licenses to datasets So that My IP rights are protected appropriately
+As a depositor,I want to Allow my collaborators privileged access to datasets So that We continue to have a productive relationship
+As a depositor,I want to Deposit arbitrarily large files So that I am not limited in what files I can and cannot deposit
+As a depositor,I want to Link datasets to publications in Opus So that Both my data and publications are more easily discovered
+As a depositor,I want to Mint DOIs for my data So that It can be discovered and cited more easily Citations can be tracked so that I can receive credit
+As a depositor,I want to Have metadata automatically filled from other University systems (e.g. Pure) and/or remembered from previous deposits So that I don’t have to waste time re-entering the same information
+As a depositor,I want to Link to data stored in external repositories So that I can store my data in an appropriate repository but still register it with the University and I don’t have to deposit my data in multiple places
+As a depositor,I want to Specify a retention/disposal policy for my data So that I do not accidentally breach laws or collaboration agreements
+As a depositor,I want to Track downloads of my data So that I can demonstrate the impact of my work
+As a depositor,I want to Track citations of my data So that I can demonstrate the impact of my work
+As a depositor,I want to Have guarantees about data integrity So that I can use my data in the future and I can fulfil funder requirements for archival
+As a depositor,I want to Attach subject-specific discoverability metadata to records So that Researchers in my discipline can find my data more easily
+As a depositor,I want to Link datasets with the project DMP (possibly from DMPonline) So that Compliance with DMP can be demonstrated and Whole project workflow is linked together
+As a depositor,I want to Manage and share “live” research data So that Whole project workflow is linked together
+As a depositor,I want to Manage multiple versions of the same dataset So that Changes to the dataset are transparent and do not compromise research integrity
+As a depositor,I want to Allow others to deposit on my behalf So that I can delegate research data management tasks appropriately
+
+As a data re-user,I want to Search the archive through the web So that I can easily find data relevant to my needs
+As a data re-user,I want to Access the system in my native language So that I am not put off re-using University of Bath data by language barriers
+As a data re-user,I want to Examine and identify deposited files So that I can make a preliminary assessment of usefulness without downloading the whole dataset
+As a data re-user,I want to As a data re-user I want to View an example citation for a dataset So that I can reference it correctly
+As a data re-user,I want to View a DOI for a dataset So that I can get back to the data in future and I can import the dataset into my reference-management software automatically
+As a data re-user,I want to Get a persistent URL for a dataset So that I can get back to the data in future
+As a data re-user,I want to Search the archive through Primo (University of Bath library search system) So that I can search books articles and data all in one place
+As a data re-user,I want to See different versions (including the latest) of a dataset at a glance So that I can be sure I’m using the right version of the dataset
+
+As an external collaborator,I want to Gain privileged access to data for projects in which I am involved So that I can collaborate effectively
+As an external collaborator,I want to Have guarantees that my IP rights will not be breached So that The risk of collaborating with Bath is acceptable to me
+As an external collaborator,I want to Access data from Bath collaborators off campus So that I can collaborate effectively
+
+As a research facility manager,I want to Deposit data from my facility directly into the archive on behalf of researchers So that I am no longer required to maintain my own archive of facility data
+As a research facility manager,I want to Deposit data from my facility directly into the archive on behalf of researchers So that Researchers can access their own data as needed
+
+As a Bath Data Archive administrator,I want to Make some checks on deposited datasets before they are made public So that Consistent quality of metadata is maintained
+As a Bath Data Archive administrator,I want to Make some checks on deposited datasets before they are made public So that Compliance with policies can be checked
+As a Bath Data Archive administrator,I want to Make some checks on deposited datasets before they are made public So that Details of licensing can be checked
+As a Bath Data Archive administrator,I want to Require a minimum set of metadata So that Consistent quality of metadata is maintained
+As a Bath Data Archive administrator,I want to Approve scheduled disposal of data So that Data which is still required is not destroyed
+As a Bath Data Archive administrator,I want to Query the entire archive (including embargoed records) So that I can report on particular aspects of the archive holdings
+As a Bath Data Archive administrator,I want to Import Bath data from an external data centre wholesale So that Bath data holdings in external archives are not lost if they close down
+As a Bath Data Archive administrator,I want to Encourage and promote the use of open standards for deposit So that Data is as reusable as possible
+
+As a Research Information manager,I want to Integrate the archive with CRIS So that I can analyse impact of research data publication
+As a Research Information manager,I want to Integrate the archive with CRIS So that I can link funding to all of the outputs it produces
+As a Research Information manager,I want to Include records for externally-held data So that The university’s record of data holdings is complete
+As a Research Information manager,I want to Track citation counts for published datasets So that Impact of datasets within academia can be demonstrated
+As a Research Information manager,I want to Segment view & download statistics by country and sector So that Impact of datasets outside academia can be demonstrated
+As a Research Information manager,I want to Have datasets linked to metadata about projects So that I can report on projects depositing datasets in relation to funder requirements
+
+As the university IT service,I want to Store archived data on existing storage systems So that University data storage is consistent and maintainable
+As the university IT service,I want to Store archived data on existing storage systems So that Future availability of data can be guaranteed
+As the university IT service,I want to Integrate the archive with existing university systems such as LDAP So that The cost of administering the system can be kept low
+As the university IT service,I want to Store archived data directly on the HCP object store So that Best use of the HCP’s features can be made
+As the university IT service,I want to Be able to export all data to a different system So that I am not tied into one system which may not be the most appropriate at some point in the future
+
+As a developer/maintainer of related services (e.g. VRE),I want to Deposit and maintain datasets via an API such as SWORD2 So that My service can interact with the archive
+
+As an academic publisher,I want to Make persistent web links between my articles and underlying datasets So that My journals can be seen to be filled with robust high-quality research
+
+As a funding body,I want to Be reassured (by individual researchers or an institution) that researchers I fund have robust archival plans for their data So that I can be sure that funding them is a worthwhile investment
+As a funding body,I want to Harvest metadata on outputs from research I fund via e.g. OAI-PMH So that I can analyse effectiveness of funding strategy
+As a funding body,I want to Harvest metadata on outputs from research I fund via e.g. OAI-PMH So that I can encourage cross-fertilisation of research outputs (see e.g. OpenAIRE )
